@@ -1,3 +1,4 @@
+-- Day 29 Constraints --
 create database bookstore;
 use bookstore;
 
